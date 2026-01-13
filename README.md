@@ -64,41 +64,31 @@ npm run dev
 
 
 Open your browser and visit:
-
 http://localhost:5173
 
 
 
 🌐 TMDB API Reference
-
 Website: https://www.themoviedb.org/
-
 API Docs: https://developer.themoviedb.org/docs
 
 
 
 📌 Future Improvements
-
 ⭐ Add favorites / watchlist
-
 📄 Pagination or infinite scroll
-
 🎭 Filter by genre
-
 🔐 User authentication
-
 🌙 Dark mode
 
 
 
 👨‍💻 Author
-
 Tejas
 Student | Learning MERN Stack & GenAI
 
 
 📄 License
-
 This project is for learning and educational purposes.
 
 
